@@ -7,7 +7,9 @@ The task involves loading multi-format datasets, merging them, and performing an
 ---
 
 ## Project Structure
+## Project Structure
 
+```
 Hackthon_Soln/
 │
 ├── data/
@@ -19,8 +21,7 @@ Hackthon_Soln/
 │   └── final_food_delivery_dataset.csv
 │
 └── Solutions.ipynb
-
----
+```
 
 ## Folder Details
 
